@@ -11,7 +11,7 @@ Sunum dosyalarını **Slides** klasöründe bulabilirsiniz.
 
 Ödev kontrol için hesaplar açıldığına dair ekran görüntüsü alıp aşağıdaki eposta adresine ekran görüntülerini yollayabilirsiniz.
 
-Ödev göndermek eposta adresimiz: 
+Ödev göndermek için eposta adresimiz: 
 
 msdevopsacademy@outlook.com
 
